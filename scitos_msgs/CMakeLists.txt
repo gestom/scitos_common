@@ -24,6 +24,7 @@ add_message_files(
    FILES
    BatteryState.msg
    ChargerStatus.msg
+   ChargerStatusAux.msg
    HeadLightState.msg
    MotorStatus.msg
    BarrierStatus.msg
